@@ -1,14 +1,11 @@
 # state-management-tutorial
 
-https://913alicehincu.github.io/shop \
-This is where I learned about routing. I have an "About" page and a "Shop" page. The shop page has multiple items, every item with its own page that contains the name 
-and an image(if the image exists). 
+https://913alicehincu.github.io/state-management-tutorial/ \
+This is where I learned about context. The actual movie list(the array with the information) is a different component, composed by a movie context and a movie provider. By doing that, both the nav bar and the MovieList have access to that information, without lifting up the state. 
 
 # Details
- --This is based on the following <a href="https://www.youtube.com/watch?v=Law7wfdg_ls&list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE&index=3">
+ --This is based on the following <a href="https://www.youtube.com/watch?v=35lXWvCuM8o&list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE&index=5">
                     tutorial
- </a> \
- --Documentation for the <a href="https://docs.fortniteapi.com/">
-                    fortnite API
- </a> \
+ </a> 
+ 
 --This is not a personal project, it is a beginner friendly / introductive project for those who started learning React
