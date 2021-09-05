@@ -6,7 +6,7 @@ const Nav = () => {
     const [movies, setMovies] = useContext(MovieContext)
     return (
         <nav>
-            <h3>Alice</h3>
+            <h3>Alice!</h3>
             <p>List of Movies: {movies.length}</p>
         </nav>
     )
