@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/state-management-tutuorial/static/css/main.3b9f8a16.chunk.css",
+    "main.js": "/state-management-tutuorial/static/js/main.bc80c5c6.chunk.js",
+    "main.js.map": "/state-management-tutuorial/static/js/main.bc80c5c6.chunk.js.map",
+    "runtime-main.js": "/state-management-tutuorial/static/js/runtime-main.00f5b5ce.js",
+    "runtime-main.js.map": "/state-management-tutuorial/static/js/runtime-main.00f5b5ce.js.map",
+    "static/js/2.30dfb9f1.chunk.js": "/state-management-tutuorial/static/js/2.30dfb9f1.chunk.js",
+    "static/js/2.30dfb9f1.chunk.js.map": "/state-management-tutuorial/static/js/2.30dfb9f1.chunk.js.map",
+    "static/js/3.5f33f41d.chunk.js": "/state-management-tutuorial/static/js/3.5f33f41d.chunk.js",
+    "static/js/3.5f33f41d.chunk.js.map": "/state-management-tutuorial/static/js/3.5f33f41d.chunk.js.map",
+    "index.html": "/state-management-tutuorial/index.html",
+    "static/css/main.3b9f8a16.chunk.css.map": "/state-management-tutuorial/static/css/main.3b9f8a16.chunk.css.map",
+    "static/js/2.30dfb9f1.chunk.js.LICENSE.txt": "/state-management-tutuorial/static/js/2.30dfb9f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00f5b5ce.js",
+    "static/js/2.30dfb9f1.chunk.js",
+    "static/css/main.3b9f8a16.chunk.css",
+    "static/js/main.bc80c5c6.chunk.js"
+  ]
+}
